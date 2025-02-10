@@ -4,12 +4,12 @@
 This script automates search of dynamic shared objects (DLL's) of applications via ldd. Supports groups and recursive directories tree searching.
 
 ## Usage
-***[single file/s]***:
-*script_path*/*script_name* binary_1 binary_2 ... binary_n
-***[directories]***:
-*script_path*/*scipt_name* path_1 path_2/
-***[directories(recursion)]***:
-*script_path*/*scipt_name* -r/--recursion path_1 path_2/
+***[single file/s]***:  
+*script_path*/*script_name* binary_1 binary_2 ... binary_n  
+***[directories]***:  
+*script_path*/*scipt_name* path_1 path_2/  
+***[directories(recursion)]***:  
+*script_path*/*scipt_name* -r/--recursion path_1 path_2/  
 
 ## Example w/ output
 1) single binary
