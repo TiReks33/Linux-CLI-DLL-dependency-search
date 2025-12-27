@@ -1,7 +1,7 @@
 # Linux-CLI-dll-dependency-search
 ## Description
 
-This script automates search of dynamic shared objects (DLL's) of applications via ldd. Supports groups and recursive directories tree searching.
+This script automates search of dynamic shared objects (DLL's) of applications via 'ldd'. Supports recursive sub-directories tree searching. Tested on Debian 11, Ubuntu 24.04, Fedora 41.
 
 ## Usage
 ***[single file/s]***:  
